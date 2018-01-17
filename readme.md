@@ -20,7 +20,7 @@ http://forums.keenswh.com/?forum=325599
 
 How to use Exploration Ship Scan mod...
 -----------------------
-All chat commands and examples on how to use them are described in our [wiki documentation](http://github.com/midspace/Space-Engineers-Exploration-Ship-Scan-mod/wiki).
+All chat commands and examples on how to use them are NOT described in our [wiki documentation](http://github.com/midspace/Space-Engineers-Exploration-Ship-Scan-mod/wiki) (broken link).
 
 
 Working with the code.
